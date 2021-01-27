@@ -2,7 +2,7 @@
 So that <Motivation>,
 I'd like <Task>. -->
 
-As someone who likes to use bookmarks, 
+As someone who likes to use bookmarks,
 So that I can keep track of my most visited websites,
 I'd like to see a list of bookmarks
 
@@ -11,6 +11,12 @@ I'd like to see a list of bookmarks
 | Someone   | Likes to use      |
 | Bookmarks   | Show     |
 | Websites|Keep track of, visited|
+
+As a person who likes surfing the web,
+So that I can keep track of my best websites
+I'd like to add new bookmarks from the world wide web.
+
+
 
 
 BROWSWER (CLIENT) ----> CONTROLLER ----> MODEL -----> VIEW ----> BROWSER (CLIENT)
