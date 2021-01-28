@@ -1,5 +1,3 @@
-
-
 feature ' adding bookmark' do
   scenario ' whilst catching some waves on the world wide web with my buds' do
     visit('/bookmarks/add')
